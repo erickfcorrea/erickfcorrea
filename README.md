@@ -66,8 +66,8 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
 ## Estatísticas do GitHub
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erickfcorrea&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Érick" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfcorrea&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Érick" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erickfcorrea&theme=tokyonight" alt="Estatísticas do GitHub de Érick" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erickfcorrea&theme=tokyonight" alt="Linguagens mais usadas por Érick" />
 </p>
 
 ## Contato
