@@ -43,6 +43,8 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ## Habilidades práticas
@@ -60,6 +62,13 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
 - [Tradutor](https://github.com/erickfcorrea/Tradutor) — aplicação web com JavaScript, API de tradução e reconhecimento de voz.
 - [Cronômetro Java](https://github.com/erickfcorrea/Cronometro-java) — cronômetro e timer regressivo com Java Swing, histórico de voltas, exportação em TXT e tema escuro.
 - [Móveis Tubarão](https://github.com/erickfcorrea/moveistubarao) — projeto de site publicado no GitHub Pages.
+
+## Estatísticas do GitHub
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erickfcorrea&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Érick" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfcorrea&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Érick" />
+</p>
 
 ## Contato
 
