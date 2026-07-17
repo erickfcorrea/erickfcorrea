@@ -5,11 +5,13 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
 ## Sobre mim
 
 - 🔭 Desenvolvendo projetos web com React, TypeScript e JavaScript.
-- 🌱 Aprofundando conhecimentos em desenvolvimento front-end e Java.
+- 🌱 Expandindo conhecimentos em desenvolvimento front-end, Java e banco de dados.
 - 💡 Interesse em interfaces bem construídas, responsividade e boas experiências de uso.
 - 📍 Santa Catarina, Brasil.
 
-## Tecnologias e habilidades
+## Tecnologias
+
+### Front-end
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,18 +21,38 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-Também tenho prática com:
+### Back-end e dados
 
-- Desenvolvimento de interfaces responsivas e estilização com CSS/CSS Modules.
-- Roteamento de páginas em React com React Router.
-- Consumo de APIs REST com `fetch` e Axios.
-- Funcionalidades do navegador, como reconhecimento de voz com a Web Speech API.
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+## Habilidades práticas
+
+- Interfaces responsivas e estilização com CSS, CSS Modules, Tailwind CSS e Bootstrap.
+- Componentização e roteamento de páginas com React e React Router.
+- Consumo de APIs REST com `fetch`, Axios e Postman.
+- Funcionalidades do navegador, incluindo reconhecimento de voz com a Web Speech API.
 - Aplicações desktop em Java com Swing.
+- Versionamento de código e publicação de projetos com Git e GitHub.
 
 ## Projetos em destaque
 
@@ -45,11 +67,4 @@ Também tenho prática com:
   <a href="https://instagram.com/erickfcorrea"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/5548984430845"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/erickfcorrea"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-## Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erickfcorrea&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Érick" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfcorrea&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Érick" />
 </p>
