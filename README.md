@@ -4,10 +4,8 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
 
 ## Sobre mim
 
-- 🔭 Desenvolvendo projetos web com React, TypeScript e JavaScript.
-- 🌱 Expandindo conhecimentos em desenvolvimento front-end, Java e banco de dados.
-- 💡 Interesse em interfaces bem construídas, responsividade e boas experiências de uso.
-- 📍 Santa Catarina, Brasil.
+- 🔭 Desenvolvendo projetos full-stack.
+- 🌱 Expandindo conhecimentos em desenvolvimento front-end, back-end e cyber security.
 
 ## Tecnologias
 
