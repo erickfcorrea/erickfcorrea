@@ -62,7 +62,6 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
 - Consumo de APIs REST utilizando Fetch API, Axios e Postman.
 - Integração com bancos de dados PostgreSQL e Firebase.
 - Desenvolvimento de aplicações desktop em Java com Swing.
-- Funcionalidades do navegador, incluindo reconhecimento de voz com a Web Speech API.
 - Containerização de aplicações com Docker.
 - Documentação de APIs utilizando Swagger.
 - Versionamento de código com Git e GitHub.
