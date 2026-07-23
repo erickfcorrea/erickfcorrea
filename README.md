@@ -33,6 +33,7 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### Ferramentas
@@ -40,43 +41,62 @@ Desenvolvedor em formação, focado em criar interfaces web modernas, responsiva
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" />
 </p>
 
 ## Habilidades práticas
 
-- Interfaces responsivas e estilização com CSS, CSS Modules, Tailwind CSS e Bootstrap.
-- Componentização e roteamento de páginas com React, Next.js e React Router.
-- Consumo de APIs REST com **fetch**, **Axios** e Postman.
-- Desenvolvimento de APIs com **Node.js**, **NestJS** e **Spring Boot**.
+- Desenvolvimento de interfaces responsivas com HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS e Bootstrap.
+- Criação de aplicações front-end com Vite.
+- Desenvolvimento de APIs REST utilizando Node.js, NestJS e Spring Boot.
+- Consumo de APIs REST utilizando Fetch API, Axios e Postman.
+- Integração com bancos de dados PostgreSQL e Firebase.
+- Desenvolvimento de aplicações desktop em Java com Swing.
 - Funcionalidades do navegador, incluindo reconhecimento de voz com a Web Speech API.
-- Aplicações desktop em Java com Swing.
-- Versionamento de código e publicação de projetos com Git e GitHub.
+- Containerização de aplicações com Docker.
+- Documentação de APIs utilizando Swagger.
+- Versionamento de código com Git e GitHub.
+- Prototipação de interfaces utilizando Figma.
 
 ## Projetos em destaque
 
-- [ProxWork Login](https://github.com/erickfcorrea/LoginPage-ProxWork) — interface de login e página inicial com React, TypeScript, Vite, React Router, Tailwind CSS e Axios.
-- [Tradutor](https://github.com/erickfcorrea/Tradutor) — aplicação web com JavaScript, API de tradução e reconhecimento de voz.
-- [Cronômetro Java](https://github.com/erickfcorrea/Cronometro-java) — cronômetro e timer regressivo com Java Swing, histórico de voltas, exportação em TXT e tema escuro.
-- [Móveis Tubarão](https://github.com/erickfcorrea/moveistubarao) — projeto de site publicado no GitHub Pages.
+- **[ProxWork Login](https://github.com/erickfcorrea/LoginPage-ProxWork)** — Interface de login e dashboard desenvolvidas com React, TypeScript, Vite, React Router, Tailwind CSS e Axios.
+
+- **[Tradutor](https://github.com/erickfcorrea/Tradutor)** — Aplicação web desenvolvida em JavaScript com API de tradução, reconhecimento de voz e síntese de voz utilizando Web Speech API.
+
+- **[Cronômetro Java](https://github.com/erickfcorrea/Cronometro-java)** — Aplicação desktop desenvolvida em Java Swing com cronômetro, timer regressivo, histórico de voltas, exportação para TXT e tema escuro.
+
+- **[Móveis Tubarão](https://github.com/erickfcorrea/moveistubarao)** — Website responsivo publicado no GitHub Pages para apresentação de produtos e informações da empresa.
 
 ## Estatísticas do GitHub
 
-<p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erickfcorrea&theme=tokyonight" alt="Estatísticas do GitHub de Érick" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erickfcorrea&theme=tokyonight" alt="Linguagens mais usadas por Érick" />
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erickfcorrea&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erickfcorrea&theme=tokyonight" />
 </p>
 
 ## Contato
 
 <p>
-  <a href="https://instagram.com/erickfcorrea"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/5548984430845"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/erickfcorrea"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/erickfcorrea">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5548984430845">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/erickfcorrea">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
